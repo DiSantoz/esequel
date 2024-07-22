@@ -43,8 +43,6 @@ E-Sequel uses the latest back-end technologies in order to build a database that
 
 ## Usage
 
-Please see attached [video](https://drive.google.com/file/d/1FQPOqr2RSM_eux22UpoFSY3gW1Hz_NWE/view?usp=sharing) on how to use this application!
-
 ![alt](./assets/images/show.gif)
 
 ## Technology
